@@ -165,7 +165,7 @@
 | ViewPCGC: View-guided learned point cloud geometry compression | 几何有损 | 体素 | ACM MM | 2024 | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681225) | N/A |
 | RENO: Real-time neural compression for 3D LiDAR point clouds | 几何无损 | 体素 | CVPR | 2025 | [Paper]((https://openaccess.thecvf.com/content/CVPR2025/html/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.html)) | [Code](https://github.com/NJUVISION/RENO) |
 | suLPCC: A novel LiDAR point cloud compression framework for scene understanding tasks | 几何有损 | 体素 | TII | 2025 | [Paper](https://ieeexplore.ieee.org/document/10884627) | N/A |
-| DeepPCC: Learned lossy point cloud compression | 几何有损 | 体素 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | Code[https://github.com/3dpcc/DeepPCC] |
+| DeepPCC: Learned lossy point cloud compression | 几何有损 | 体素 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | [Code](https://github.com/3dpcc/DeepPCC) |
 | YOGA: Yet another geometry-based point cloud compressor | 几何有损 | 体素 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613847) | [Code](https://github.com/3dpcc/YOGAv1) |
 | A versatile point cloud compressor using universal multiscale conditional coding – Part I: Geometry | 几何有损及无损 | 体素 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/10682571) | [Code](https://github.com/NJUVISION/Unicorn) |
 | A novel point cloud compression algorithm based on clustering | 几何有损 | 二维投影 | RAL | 2019 | [Paper](https://ieeexplore.ieee.org/document/8648155) | N/A |
@@ -215,7 +215,7 @@
 | Deep-PCAC: An end-to-end deep lossy compression framework for point cloud attributes | 属性有损 | 学习方法 | TMM | 2021 | [Paper](https://ieeexplore.ieee.org/document/9447226) | [Code](https://github.com/xhsheng-ustc/Deep-PCAC) |
 | Sparse tensor-based point cloud attribute compression | 属性有损 | 学习方法 | MIPR | 2022 | [Paper](https://ieeexplore.ieee.org/document/9874468) | N/A |
 | TSC-PCAC: Voxel transformer and sparse convolution-based point cloud attribute compression for 3D broadcasting | 属性有损 | 学习方法 | TBC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10693649) | [Code](https://github.com/igizuxo/TSC-PCAC) |
-| DeepPCC: Learned lossy point cloud compression | 属性有损 | 学习方法 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | Code[https://github.com/3dpcc/DeepPCC] |
+| DeepPCC: Learned lossy point cloud compression | 属性有损 | 学习方法 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | [Code](https://github.com/3dpcc/DeepPCC) |
 | YOGA: Yet another geometry-based point cloud compressor | 属性有损 | 学习方法 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613847) | [Code](https://github.com/3dpcc/YOGAv1) |
 | Efficient point cloud attribute compression using rich parallelizable context model | 属性有损 | 学习方法 | ICASSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10448389) | N/A |
 | PCAC-GAN: A sparse-tensor-based generative adversarial network for 3D point cloud attribute compression | 属性有损 | 学习方法 | CVM | 2024 | [Paper](https://ieeexplore.ieee.org/document/11174068) | N/A |
