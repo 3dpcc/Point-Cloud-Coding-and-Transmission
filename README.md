@@ -7,17 +7,17 @@
 | Deep compression for dense point cloud maps | 几何有损 | 自编码器 | RAL | 2021 | [Paper](https://ieeexplore.ieee.org/document/9354895) | [Code](https://github.com/PRBonn/deep-point-map-compression) |
 | Learning convolutional transforms for lossy point cloud geometry compression | 几何有损 | 自编码器 | ICIP | 2019 | [Paper](https://ieeexplore.ieee.org/document/8803413) | [Code](https://github.com/mauriceqch/pcc_geo_cnn) |
 | Improved deep point cloud geometry compression | 几何有损 | 自编码器 | MMSP | 2020 | [Paper](https://ieeexplore.ieee.org/abstract/document/9287077) | [Code](https://github.com/mauriceqch/pcc_geo_cnn_v2) |
-| Point Cloud Geometry Compression with Channel Attentions for Low Density Point Cloud | 几何有损 | 自编码器 | ICCCI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11158644) | N/A |
+| Point cloud geometry compression with channel attentions for low density point cloud | 几何有损 | 自编码器 | ICCCI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11158644) | N/A |
 | Deep learning-based point cloud geometry coding: RD control through implicit and explicit quantization | 几何有损 | 自编码器 | ICMEW | 2020 | [Paper](https://ieeexplore.ieee.org/document/9106022) | N/A |
-| Scalable Graph-Guided Transformer for Point Cloud Geometry Coding | 几何有损 | 自编码器 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/11123804) | N/A |
-| Temporal Conditional Coding for Dynamic Point Cloud Geometry Compression | 几何有损 | 自编码器 | ICMEW | 2024 | [Paper](https://ieeexplore.ieee.org/document/10447562) | N/A |
+| Scalable graph-guided transformer for point cloud geometry coding | 几何有损 | 自编码器 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/11123804) | N/A |
+| Temporal conditional coding for dynamic point cloud geometry compression | 几何有损 | 自编码器 | ICMEW | 2024 | [Paper](https://ieeexplore.ieee.org/document/10447562) | N/A |
 | Inter-frame compression for dynamic point cloud geometry coding | 几何有损 | 自编码器 | TIP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10380494) | [Code](https://github.com/aniqueakhtar/PointCloudCompression) |
 | Real-time streaming point cloud compression for 3D LiDAR sensor using U-Net | 几何有损 | 二维投影 | Access | 2019 | [Paper](https://ieeexplore.ieee.org/document/8798629/) | [Code](https://github.com/hashi0203/unet-lidar-compression) |
 | Compressing continuous point cloud data using image compression methods | 几何有损 | 二维投影 | ICITS | 2016 | [Paper](https://ieeexplore.ieee.org/document/7795789) | N/A |
 | Point cloud compression for 3D LiDAR sensor using recurrent neural network with residual blocks | 几何有损 | 二维投影 | ICRA | 2019 | [Paper](https://ieeexplore.ieee.org/document/8794264) | [Code](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN) |
 | RIDDLE: LiDAR data compression with range image deep delta encoding | 几何有损 | 二维投影 | CVPR | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9878865/) | N/A |
-| A Volumetric Approach to Point Cloud Compression–Part II: Geometry Compression | 几何有损 | 其余架构 | TIP | 2020 | [Paper](https://ieeexplore.ieee.org/document/8931233/) | N/A |
-| Fast Run-Length Compression of Point Cloud Geometry | 几何有损 | 其余架构 | TIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9808383) | N/A |
+| A volumetric approach to point cloud compression–Part II: geometry compression | 几何有损 | 其余架构 | TIP | 2020 | [Paper](https://ieeexplore.ieee.org/document/8931233/) | N/A |
+| Fast run-length compression of point cloud geometry | 几何有损 | 其余架构 | TIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9808383) | N/A |
 | Learning-based lossless compression of 3D point cloud geometry | 几何无损 | 体素 | ICASSP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9414763/) | [Code](https://github.com/dattnguyenx/VoxelDNN) |
 | Multiscale deep context modeling for lossless point cloud geometry compression | 几何无损 | 体素 | ICMEW | 2021 | [Paper](https://ieeexplore.ieee.org/document/9455990/) | [Code](https://github.com/dattnguyenx/MSVoxelDNN) |
 | Lossless point cloud geometry and attribute compression using a learned conditional probability model | 几何无损 | 体素 | TCSVT | 2023 | [Paper](https://dl.acm.org/doi/abs/10.1109/TCSVT.2023.3239321) | N/A |
@@ -137,12 +137,12 @@
 | 3D point cloud geometry compression on deep learning | 几何有损 | 点 | ACMMM | 2019 | [Paper](https://dl.acm.org/doi/10.1145/3343031.3351061) | N/A |
 | Multi-scale end-to-end learning for point cloud geometry compression | 几何有损 | 点 | ICIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9898058) | N/A |
 | Point cloud geometry compression via neural graph sampling | 几何有损 | 点 | ICIP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9506631) | N/A |
-| TransPCC: Towards Deep Point Cloud Compression via Transformers | 几何有损 | 点 | ICMR | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3512527.3531423) | [Code](https://github.com/jokieleung/TransPCC) |
-| Transformer and Upsampling-Based Point Cloud Compression | 几何有损 | 点 | APCCPA | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3552457.3555731) | N/A |
-| Multi-Space Point Geometry Compression With Progressive Relation-Aware Transformer | 几何有损 | 点 | TMM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10487884) | N/A |
-| Patch-Based Deep Autoencoder for Point Cloud Geometry Compression | 几何有损 | 点 | ACM MMAsia | 2021 | [Paper](https://dl.acm.org/doi/10.1145/3469877.3490611) | [Code](https://github.com/I2-Multimedia-Lab/PCC_Patch) |
-| IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression | 几何有损 | 点 | APCCPA | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3552457.3555728) | [Code](https://github.com/I2-Multimedia-Lab/IPDAE) |
-| Patch-Wise LiDAR Point Cloud Geometry Compression Based on Autoencoder | 几何有损 | 点 | ICIG | 2023 | [Paper](https://dl.acm.org/doi/10.1007/978-3-031-46311-2_25) | N/A |
+| TransPCC: Towards deep point cloud compression via transformers | 几何有损 | 点 | ICMR | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3512527.3531423) | [Code](https://github.com/jokieleung/TransPCC) |
+| Transformer and upsampling-based point cloud compression | 几何有损 | 点 | APCCPA | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3552457.3555731) | N/A |
+| Multi-space point geometry compression with progressive relation-aware transformer | 几何有损 | 点 | TMM | 2024 | [Paper](https://ieeexplore.ieee.org/document/10487884) | N/A |
+| Patch-based deep autoencoder for point cloud geometry compression | 几何有损 | 点 | ACM MMAsia | 2021 | [Paper](https://dl.acm.org/doi/10.1145/3469877.3490611) | [Code](https://github.com/I2-Multimedia-Lab/PCC_Patch) |
+| IPDAE: Improved patch-based deep autoencoder for lossy point cloud geometry compression | 几何有损 | 点 | APCCPA | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3552457.3555728) | [Code](https://github.com/I2-Multimedia-Lab/IPDAE) |
+| Patch-wise LiDAR point cloud geometry compression based on autoencoder | 几何有损 | 点 | ICIG | 2023 | [Paper](https://dl.acm.org/doi/10.1007/978-3-031-46311-2_25) | N/A |
 | Density-preserving deep point cloud compression | 几何有损 | 点 | CVPR | 2022 | [Paper](https://ieeexplore.ieee.org/document/9880234) | [Code](https://github.com/yunhe20/D-PCC) |
 | msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression | 几何有损 | 点 | AAAI | 2024 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28362) | N/A |
 | Pointsoup: High-performance and extremely low-decoding-latency learned geometry codec for large-scale point cloud scenes | 几何有损 | 点 | IJCAI | 2024 | [Paper](https://www.ijcai.org/proceedings/2024/595) | [Code](https://github.com/I2-Multimedia-Lab/Pointsoup) |
@@ -220,9 +220,9 @@
 | Point cloud attribute compression with geometry-aware lifting-based multiscale networks | 属性有损 | 学习方法 | TCSVT | 2025 | [Paper](https://ieeexplore.ieee.org/document/11121912) | N/A |
 | Predictive generalized graph Fourier transform for attribute compression of dynamic point clouds | 属性有损 | 学习方法 | TCSVT | 2020 | [Paper](https://ieeexplore.ieee.org/document/9165178) | N/A |
 | Rendering-oriented 3D point cloud attribute compression using sparse tensor-based transformer | 属性有损 | 学习方法 | TCSVT | 2025 | [Paper](https://ieeexplore.ieee.org/document/10908209) | N/A |
-| Lossless point cloud attribute compression using cross-scale, cross-group, and cross-color prediction | 属性无损 | 学习方法 | DCC | 2023 | [Paper](#) | N/A |
+| Lossless point cloud attribute compression using cross-scale, cross-group, and cross-color prediction | 属性无损 | 学习方法 | DCC | 2023 | [Paper](https://ieeexplore.ieee.org/document/10125514) | N/A |
 | Efficient and generic point model for lossless point cloud attribute compression | 属性无损 | 学习方法 | ArXiv | 2024 | [Paper](https://arxiv.org/abs/2404.06936) | [Code](https://github.com/I2-Multimedia-Lab/PoLoPCAC) |
-| ConPCAC: Conditional lossless point cloud attribute compression via spatial decomposition | 属性无损 | 学习方法 | TCSVT | 2025 | [Paper](#) | N/A |
+| ConPCAC: Conditional lossless point cloud attribute compression via spatial decomposition | 属性无损 | 学习方法 | TCSVT | 2025 | [Paper](https://ieeexplore.ieee.org/document/10879568) | N/A |
 | Hierarchical attention networks for lossless point cloud attribute compression | 属性无损 | 学习方法 | DCC | 2025 | [Paper](https://arxiv.org/abs/2504.00481) | N/A |
 | LOD-PCAC: Level-of-detail-based deep lossless point cloud attribute compression | 属性无损 | 学习方法 | TIP | 2025 | [Paper](https://ieeexplore.ieee.org/document/11039156) | N/A |
 | Lossless LiDAR point cloud reflectance compression with a deep hierarchical KNN context model | 属性无损 | 学习方法 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/10891456) | N/A |
