@@ -1,4 +1,4 @@
-# Point-Cloud-Coding-and-Transfer
+# Point-Cloud-Coding-and-Transmisson
 
 ### 1. 国际几何压缩编码研究归纳
 
