@@ -39,7 +39,7 @@
 | Compression of plenoptic point cloud attributes using 6-D point clouds and 6-D transforms | 属性有损 | 传统方法 | TMM | 2021 | [Paper](https://ieeexplore.ieee.org/document/9622130) | N/A |
 | Point cloud attribute compression via chroma subsampling | 属性有损 | 传统方法 | ICASSP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9746352) | N/A |
 | Fractional motion estimation for point cloud compression | 属性有损 | 传统方法 | DCC | 2022 | [Paper](https://ieeexplore.ieee.org/document/9810656) | N/A |
-| Editing compressed high-resolution voxel scenes with attributes | 属性有损+属性无损 | 传统方法 | Comput. Graph. Forum | 2023 | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14757) | N/A |
+| Editing compressed high-resolution voxel scenes with attributes | 属性有损及无损 | 传统方法 | Comput. Graph. Forum | 2023 | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14757) | N/A |
 | Point cloud compression incorporating region of interest coding | 属性有损 | 传统方法 | ICIP | 2019 | [Paper](https://ieeexplore.ieee.org/document/8803553) | N/A |
 | Learned volumetric attribute compression for point clouds using coordinate-based networks | 属性有损 | 学习方法 | Front. Signal Process. | 2022 | [Paper](https://arxiv.org/abs/2111.08988) | N/A |
 | Volumetric attribute compression for 3D point clouds using feedforward network with geometric attention | 属性有损 | 学习方法 | ICASSP | 2023 | [Paper](https://ieeexplore.ieee.org/document/10096559) | N/A |
