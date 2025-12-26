@@ -123,9 +123,9 @@
 
 | 论文标题 | 类别 | 基础框架 | 发表期刊或会议 | 年份 | 论文 | 代码 |
 | :------- | :--------: | :--------: | :------------: | :--: | :------: | :------: |
-| VQBA: Visual-quality-driven bit allocation for low-latency point cloud streaming | 码率控制 | 传统方法 | ACM MM | 2023 | [Paper](https://ieeexplore.ieee.org/document/10679082) | N/A |
+| VQBA: Visual-quality-driven bit allocation for low-latency point cloud streaming | 码率控制 | 传统方法 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612486) | N/A |
 | Rate control for video-based point cloud compression | 码率控制 | 传统方法 | TIP | 2020 | [Paper](https://ieeexplore.ieee.org/document/9080532) | N/A |
-| Rate control for point cloud compression with adaptive updates to the rate-quantization model | 码率控制 | 传统方法 | EUSIPCO | 2025 | [Paper](https://eusipco2025.org/wp-content/uploads/pdfs/0000790.pdf) | N/A |
+| Rate control for point cloud compression with adaptive updates to the rate-quantization model | 码率控制 | 传统方法 | EUSIPCO | 2025 | [Paper](https://ieeexplore.ieee.org/document/10735350) | N/A |
 | Wireless point cloud transmission | 联合信源信道 | 学习方法 | SPAWC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10694621) | [Code](https://github.com/aprilbian/SEPT) |
 | Rateless deep joint source channel coding for 3D point cloud | 联合信源信道 | 学习方法 | Access | 2025 | [Paper](https://ieeexplore.ieee.org/document/10906588) | N/A |
 
@@ -238,41 +238,41 @@
 
 | 论文标题 |    类别    |  基础框架  | 发表期刊或会议 | 年份 |   论文   |   代码   |
 | :------- | :--------: | :--------: | :------------: | :--: | :------: | :------: |
-| Task-oriented compact representation of 3D point clouds via a matrix optimization-driven network | 下采样 | 学习方法 | TCSVT | 2023 |[Paper](https://ieeexplore.ieee.org/document/10108059)|N/A|
-| Curvature-variation-inspired sampling for point cloud classification and segmentation | 下采样 | 传统方法 | SPL | 2022 | [Paper](https://ieeexplore.ieee.org/document/9864034) |[Code](https://github.com/tiangexiang/CurveNet) |
-| CAS-Net: cascade attention-based sampling neural network for point cloud simplification | 下采样   | 学习方法       | ICME           | 2023 | [Paper](https://ieeexplore.ieee.org/document/10219688) | [Code](https://github.com/yuanhui0325/CAS-Net) |
-| CS-Net: Contribution-Based Sampling Network for Point Cloud Simplification | 下采样   | 学习方法       | TVCG           | 2025 | [Paper](https://arxiv.org/abs/2501.10789) | [Code](https://github.com/yuanhui0325/CSNet) |
-| Edge-aware point set resampling                              | 上采样   | 传统方法       | TOG            | 2013 | [Paper](https://dl.acm.org/doi/10.1145/2421636.2421645) | N/A |
-| PU-Net: point cloud upsampling network                       | 上采样   | 学习方法       | CVPR           | 2018 | [Paper](https://arxiv.org/abs/1801.06761) | [Code](https://github.com/yulequan/PU-Net) |
-| Point cloud upsampling via disentangled refinement           | 上采样   | 学习方法       | CVPR           | 2021 | [Paper](https://arxiv.org/abs/2106.04779) | [Code](https://github.com/liruihui/Dis-PU) |
-| Deep magnification-flexible upsampling over 3d point clouds  | 上采样   | 学习方法       | TIP            | 2021 | [Paper](https://ieeexplore.ieee.org/document/9555219) | [Code](https://github.com/ninaqy/Flexible-PU) |
-| Dynamic 3d point cloud sequences as 2d videos                | 上采样   | 传统及学习方法 | TPAMI          | 2024 | [Paper](https://arxiv.org/abs/2403.01129) |N/A |
-| Flattening-Net: deep regular 2d representation for 3d point cloud analysis | 上采样   | 学习方法       | TPAMI          | 2023 | [Paper](https://arxiv.org/abs/2212.08892) | [Code](https://github.com/keeganhk/Flattening-Net) |
-| Self-supervised arbitrary-scale implicit point clouds upsampling | 上采样   | 学习方法       | TPAMI          | 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10159515) | [Code](https://github.com/xnowbzhao/sapcu) |
-| Neural points: point cloud representation with neural fields for arbitrary upsampling | 上采样   | 学习方法       | CVPR           | 2022 | [Paper](https://arxiv.org/abs/2112.04148) | [Code](https://github.com/WanquanF/NeuralPoints) |
-| Grad-PU: arbitrary-scale point cloud upsampling via gradient descent with learned distance functions | 上采样   | 学习方法       | CVPR           | 2023 | [Paper](https://arxiv.org/abs/2304.11846) | [Code](https://github.com/yunhe20/Grad-PU) |
-| A conditional denoising diffusion probabilistic model for point cloud upsampling | 上采样   | 学习方法       | CVPR           | 2024 | [Paper]() | [Code]() |
-| Point cloud upsampling using conditional diffusion module with adaptive noise suppression | 上采样   | 学习方法       | CVPR           | 2025 | [Paper](https://arxiv.org/abs/2312.02719) | [Code](https://github.com/QWTforGithub/PUDM) |
-| Point cloud upsampling via perturbation learning             | 上采样   | 学习方法       | TIP            | 2021 | [Paper](https://ieeexplore.ieee.org/abstract/document/9493165) | [Code](https://github.com/IVC-Projects/pc_upsampling) |
-| PUFA-GAN: a frequency-aware generative adversarial network for 3d point cloud upsampling | 上采样   | 学习方法       | TIP            | 2022 | [Paper](https://ieeexplore.ieee.org/document/9961237) | [Code](https://github.com/yuanhui0325/PUFA-GAN) |
-| PU-GSM: a latent geometry-guided self-similarity model for point cloud upsampling | 上采样   | 学习方法       | TCSVT          | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11175160) | [Code](https://github.com/liuhaoyun/PU-GSM/blob/main/README.md) |
-| PU-Mask: 3d point cloud upsampling via an implicit virtual mask | 上采样   | 学习方法       | TCSVT          | 2024 | [Paper](https://ieeexplore.ieee.org/document/10445295) | [Code](https://github.com/yuanhui0325/PU-Mask) |
-| PU-Refiner: a geometry refiner with adversarial learning for point cloud upsampling | 上采样   | 学习方法       | ICASSP         | 2022 | [Paper](https://ieeexplore.ieee.org/document/9746373) | [Code](https://github.com/liuhaoyun/PU-Refiner) |
-| Point Cloud Geometry Coding Framework Based on Sampling | 上采样   | 学习方法       | SCUT Journal   | 2024 | [Paper](https://www.sciopen.com/article/10.12141/j.issn.1000-565X.230188) | [Code](https://github.com/kaiwangm/awesome-learned-point-cloud-compression) |
-| Kalman filter-based prediction refinement and quality enhancement for geometry-based point cloud compression | 质量增强 | 传统方法       | VCIP           | 2021 | [Paper](https://ieeexplore.ieee.org/document/9675412) | N/A |
-| High Efficiency Wiener Filter-Based Point Cloud Quality Enhancement for MPEG G-PCC | 质量增强 | 传统方法       | TCSVT          | 2025 | [Paper](https://ieeexplore.ieee.org/document/10929032) | N/A |
-| 3D Point Cloud Denoising Based on Color Attribute            | 质量增强 | 传统方法       | APSIPA ASC     | 2023 | [Paper](https://ieeexplore.ieee.org/document/10317301) | N/A |
-| Multi-view projection based joint geometry and color hole repairing method for G-PCC trisoup encoded color point cloud | 质量增强 | 传统及学习方法 | TETCI          | 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10185092) | N/A |
-| A small-scale image U-net-based color quality enhancement for dense point cloud | 质量增强 | 学习方法       | TCE            | 2024 | [Paper](https://ieeexplore.ieee.org/document/10445207) | [Code](https://github.com/yuanhui0325/SSIU-Net) |
-| GQE-Net: A graph-based quality enhancement network for point cloud color attribute | 质量增强 | 学习方法       | TIP            | 2023 | [Paper](https://arxiv.org/abs/2303.13764) | [Code](https://github.com/yuanhui0325/GQE-Net) |
-| PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement Based on Optimal Transport | 质量增强 | 学习方法       | TIP            | 2025 | [Paper](https://arxiv.org/abs/2503.00047) | N/A |
-| Attribute artifacts removal for geometry-based point cloud compression | 质量增强 | 学习方法       | TIP            | 2022 | [Paper](https://arxiv.org/abs/2112.00560) | N/A|
-| G-PCC++: Enhanced geometry-based point cloud compression     | 质量增强 | 传统及学习方法 | ACM MM         | 2021 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613827) | [Code](https://3dpcc.github.io/publication/GPCCplusplus/) |
-| ARNet: Attribute Artifact Reduction for G-PCC Compressed Point Clouds | 质量增强 | 学习方法       | CVM            | 2025 | [Paper]() | [Code]() |
-| Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and a Rules-Unrolling-Based Optimization | 质量增强 | 学习方法       | TVCG           | 2025 | [Paper](https://ieeexplore.ieee.org/document/10960473) | N/A |
-| Occupancy-assisted attribute artifact reduction for video-based point cloud compression | 质量增强 | 学习方法       | TBC            | 2024 | [Paper](https://ieeexplore.ieee.org/document/10416804) | N/A |
-| Multi-view projection based joint geometry and color hole repairing method for G-PCC trisoup encoded color point cloud | 质量增强 | 传统及学习方法 | TETCI          | 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10185092) | N/A |
-| Fast inter-frame motion prediction for compressed dynamic point cloud attribute enhancement | 质量增强 | 学习方法       | AAAI           | 2024 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28162) | N/A |
+| Task-oriented compact representation of 3D point clouds via a matrix optimization-driven network | 下采样 | 学习方法 | TCSVT | 2023 | [Paper](https://ieeexplore.ieee.org/document/10108059) | N/A |
+| Curvature-variation-inspired sampling for point cloud classification and segmentation | 下采样 | 传统方法 | SPL | 2022 | [Paper](https://ieeexplore.ieee.org/document/9864034) | [Code](https://github.com/tiangexiang/CurveNet) |
+| CAS-Net: cascade attention-based sampling neural network for point cloud simplification | 下采样 | 学习方法 | ICME | 2023 | [Paper](https://ieeexplore.ieee.org/document/10219688) | [Code](https://github.com/yuanhui0325/CAS-Net) |
+| CS-Net: Contribution-based sampling network for point cloud simplification | 下采样 | 学习方法 | TVCG | 2025 | [Paper](https://arxiv.org/abs/2501.10789) | [Code](https://github.com/yuanhui0325/CSNet) |
+| Edge-aware point set resampling | 上采样 | 传统方法 | TOG | 2013 | [Paper](https://dl.acm.org/doi/10.1145/2421636.2421645) | N/A |
+| PU-Net: point cloud upsampling network | 上采样 | 学习方法 | CVPR | 2018 | [Paper](https://arxiv.org/abs/1801.06761) | [Code](https://github.com/yulequan/PU-Net) |
+| Point cloud upsampling via disentangled refinement | 上采样 | 学习方法 | CVPR | 2021 | [Paper](https://arxiv.org/abs/2106.04779) | [Code](https://github.com/liruihui/Dis-PU) |
+| Deep magnification-flexible upsampling over 3D point clouds | 上采样 | 学习方法 | TIP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9555219) | [Code](https://github.com/ninaqy/Flexible-PU) |
+| Dynamic 3D point cloud sequences as 2D videos | 上采样 | 传统及学习方法 | TPAMI | 2024 | [Paper](https://arxiv.org/abs/2403.01129) | N/A |
+| Flattening-Net: deep regular 2D representation for 3D point cloud analysis | 上采样 | 学习方法 | TPAMI | 2023 | [Paper](https://arxiv.org/abs/2212.08892) | [Code](https://github.com/keeganhk/Flattening-Net) |
+| Self-supervised arbitrary-scale implicit point clouds upsampling | 上采样 | 学习方法 | TPAMI | 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10159515) | [Code](https://github.com/xnowbzhao/sapcu) |
+| Neural points: point cloud representation with neural fields for arbitrary upsampling | 上采样 | 学习方法 | CVPR | 2022 | [Paper](https://arxiv.org/abs/2112.04148) | [Code](https://github.com/WanquanF/NeuralPoints) |
+| Grad-PU: arbitrary-scale point cloud upsampling via gradient descent with learned distance functions | 上采样 | 学习方法 | CVPR | 2023 | [Paper](https://arxiv.org/abs/2304.11846) | [Code](https://github.com/yunhe20/Grad-PU) |
+| A conditional denoising diffusion probabilistic model for point cloud upsampling | 上采样 | 学习方法 | CVPR | 2024 | [Paper](https://arxiv.org/abs/2312.02719) | [Code](https://github.com/QWTforGithub/PUDM) |
+| Point cloud upsampling using conditional diffusion module with adaptive noise suppression | 上采样 | 学习方法 | CVPR | 2025 | [Paper](https://ieeexplore.ieee.org/document/11094971) | [Code](https://github.com/Baty2023/PDANS) |
+| Point cloud upsampling via perturbation learning | 上采样 | 学习方法 | TIP | 2021 | [Paper](https://ieeexplore.ieee.org/abstract/document/9493165) | [Code](https://github.com/IVC-Projects/pc_upsampling) |
+| PUFA-GAN: a frequency-aware generative adversarial network for 3D point cloud upsampling | 上采样 | 学习方法 | TIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9961237) | [Code](https://github.com/yuanhui0325/PUFA-GAN) |
+| PU-GSM: a latent geometry-guided self-similarity model for point cloud upsampling | 上采样 | 学习方法 | TCSVT | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11175160) | [Code](https://github.com/liuhaoyun/PU-GSM/blob/main/README.md) |
+| PU-Mask: 3D point cloud upsampling via an implicit virtual mask | 上采样 | 学习方法 | TCSVT | 2024 | [Paper](https://ieeexplore.ieee.org/document/10445295) | [Code](https://github.com/yuanhui0325/PU-Mask) |
+| PU-Refiner: a geometry refiner with adversarial learning for point cloud upsampling | 上采样 | 学习方法 | ICASSP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9746373) | [Code](https://github.com/liuhaoyun/PU-Refiner) |
+| Point cloud geometry coding framework based on sampling | 上采样 | 学习方法 | SCUT Journal | 2024 | [Paper](https://www.sciopen.com/article/10.12141/j.issn.1000-565X.230188) | N/A |
+| Kalman filter-based prediction refinement and quality enhancement for geometry-based point cloud compression | 质量增强 | 传统方法 | VCIP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9675412) | N/A |
+| High efficiency Wiener filter-based point cloud quality enhancement for MPEG G-PCC | 质量增强 | 传统方法 | TCSVT | 2025 | [Paper](https://ieeexplore.ieee.org/document/10929032) | N/A |
+| 3D point cloud denoising based on color attribute | 质量增强 | 传统方法 | APSIPA ASC | 2023 | [Paper](https://ieeexplore.ieee.org/document/10317301) | N/A |
+| Multi-view projection based joint geometry and color hole repairing method for G-PCC trisoup encoded color point cloud | 质量增强 | 传统及学习方法 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10185092) | N/A |
+| A small-scale image U-Net-based color quality enhancement for dense point cloud | 质量增强 | 学习方法 | TCE | 2024 | [Paper](https://ieeexplore.ieee.org/document/10445207) | [Code](https://github.com/yuanhui0325/SSIU-Net) |
+| GQE-Net: A graph-based quality enhancement network for point cloud color attribute | 质量增强 | 学习方法 | TIP | 2023 | [Paper](https://arxiv.org/abs/2303.13764) | [Code](https://github.com/yuanhui0325/GQE-Net) |
+| PCE-GAN: A generative adversarial network for point cloud attribute quality enhancement based on optimal transport | 质量增强 | 学习方法 | TIP | 2025 | [Paper](https://arxiv.org/abs/2503.00047) | N/A |
+| Attribute artifacts removal for geometry-based point cloud compression | 质量增强 | 学习方法 | TIP | 2022 | [Paper](https://arxiv.org/abs/2112.00560) | N/A |
+| G-PCC++: Enhanced geometry-based point cloud compression | 质量增强 | 传统及学习方法 | ACM MM | 2021 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613827) | [Code](https://github.com/3dpcc/GPCCplus) |
+| ARNet: Attribute artifact reduction for G-PCC compressed point clouds | 质量增强 | 学习方法 | CVM | 2025 | [Paper](https://ieeexplore.ieee.org/document/10960473) | N/A |
+| Learning to restore compressed point cloud attribute: A fully data-driven approach and a rules-unrolling-based optimization | 质量增强 | 学习方法 | TVCG | 2025 | [Paper](https://ieeexplore.ieee.org/document/10470357) | N/A |
+| Occupancy-assisted attribute artifact reduction for video-based point cloud compression | 质量增强 | 学习方法 | TBC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10416804) | N/A |
+| Multi-view projection based joint geometry and color hole repairing method for G-PCC trisoup encoded color point cloud | 质量增强 | 传统及学习方法 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10185092) | N/A |
+| Fast inter-frame motion prediction for compressed dynamic point cloud attribute enhancement | 质量增强 | 学习方法 | AAAI | 2024 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28162) | N/A |
 
 ### 9. 国内质量评价研究归纳
 | 论文标题                                                                                                                             |   参考方式   |  基础框架  | 发表期刊或会议 | 年份 |    论文    |    代码    |
@@ -307,24 +307,23 @@
 
 | 论文标题                                                     |    类别     |  基础框架  | 发表期刊或会议 | 年份 |   论文   |   代码   |
 | :----------------------------------------------------------- | :---------: | :-------: | :------------: | :--: | :------: | :------: |
-| Model-Based Joint Bit Allocation Between Geometry and Color for Video-Based 3D Point Cloud Compression | 码率控制     | 传统方法    | TMM            | 2021 | [Paper](https://ieeexplore.ieee.org/document/9194311) | [Code](https://github.com/sdqi/TMM_Model-based-Joint-Bit-Allocation-between-Geometry-and-Color-for-Video-based-3D-Point-Cloud-Compr) |
-| Coarse to Fine Rate Control For Region-Based 3D Point Cloud Compression | 码率控制     | 传统方法    | ICMEW          | 2020 | [Paper](https://ieeexplore.ieee.org/document/9106052) |N/A |
-| Global Rate-distortion Optimization of Video-based Point Cloud Compression with Differential Evolution | 码率控制     | 传统方法    | MMSP           | 2021 | [Paper](https://ieeexplore.ieee.org/document/9733714) | N/A |
-| PQA-Net: Deep no reference point cloud quality assessment via multi-view projection | 码率控制     | 学习方法 | TCSVT          | 2021 | [Paper](https://ieeexplore.ieee.org/document/9496633) | [Code](https://github.com/qdushl/PQA-Net/blob/main/README.md) |
-| Rate-Distortion Modeling for Bit Rate Constrained Point Cloud Compression | 码率控制     | 通用方法     | TCSVT          | 2023 | [Paper](https://arxiv.org/abs/2211.10646) | N/A |
-| Rate Control Optimization for Joint Geometry and Attribute Coding of LiDAR Point Clouds | 码率控制     | 传统方法    | VCIP           | 2023 | [Paper](https://ieeexplore.ieee.org/document/10402779) | N/A |
-| A Rate Control Algorithm for Video-based Point Cloud Compression | 码率控制     | 传统方法   | VCIP           | 2021 | [Paper](https://ieeexplore.ieee.org/document/9675449) | N/A |
-| Distortion Propagation Model-Based V-PCC Rate Control for 3D Point Cloud Broadcasting | 码率控制     |传统方法    | TBC            | 2025 | [Paper](https://ieeexplore.ieee.org/document/10795190) | N/A |
-| AdaDPCC: Adaptive rate control and rate-distortion-complexity optimization for dynamic point cloud compression | 码率控制     | 学习方法 | AAAI           | 2025 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33439) | N/A |
-| Rate Control for Geometry-Based LiDAR Point Cloud Compression via Multi-Factor Modeling | 码率控制     | 传统方法    | TBC            | 2024 | [Paper](https://ieeexplore.ieee.org/document/10735350) |N/A |
-| Cross-Modal Distortion Approximation for Fast Bit Allocation of Video-Based Point Cloud Compression | 码率控制     | 传统方法    | MMSP           | 2024 | [Paper](https://ieeexplore.ieee.org/document/10743667) | N/A |
-| Content-aware Rate Control for Geometry-based Point Cloud Compression | 码率控制     | 传统方法   | TCSVT          | 2024 | [Paper](https://ieeexplore.ieee.org/document/10530090) | N/A |
-| Frame-level Rate Control for Geometry-Based LiDAR Point Cloud Compression | 码率控制     | 传统方法  | TMM            | 2023 | [Paper](https://ieeexplore.ieee.org/document/9760206) | N/A |
-| Learning-based Rate Control for Video-based Point Cloud Compression | 码率控制     | 传统方法 | TIP            | 2022 | [Paper](https://ieeexplore.ieee.org/document/9720075) | N/A |
-| Joint Semantic-Channel Coding and Modulation for Point Cloud | 联合信源信道 | 语义通信 | ICC            | 2025 | [Paper](https://ieeexplore.ieee.org/document/11161502) | N/A |
-| Semantic Communication for Efficient Point Cloud Transmission | 联合信源信道 | 语义通信 | GlobeCom       | 2024 | [Paper](https://ieeexplore.ieee.org/document/10901573) |N/A|
-| Deep Joint Source-Channel Coding for Wireless Point Cloud Transmission | 联合信源信道 | 语义通信 | ICASSP         | 2025 | [Paper](https://arxiv.org/abs/2408.04889) | N/A |
-| DeepJSCC-PCG: Deep Joint Source Channel Coding for Point Cloud Geometry | 联合信源信道 | 语义通信 | SPL            | 2025 | [Paper](https://ieeexplore.ieee.org/document/11202351) |N/A |
-| Transformer-Based Semantic Communication System for 3D Point Cloud Transmission | 联合信源信道 | 语义通信 | iWRFAT         | 2025 | [Paper](https://ieeexplore.ieee.org/document/11102914) | N/A |
-| DeepJSCC-Based Latent Space Power Control for Robust and Efficient 3D Point Cloud Transmission | 联合信源信道 | 语义通信 | ETRI Journal   | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001051) | N/A |
-| A Semantic Communication System for Point Cloud              | 联合信源信道 | 语义通信 | TVT            | 2025 | [Paper](https://ieeexplore.ieee.org/document/10679082) | N/A |
+| Model-based joint bit allocation between geometry and color for video-based 3D point cloud compression | 码率控制 | 传统方法 | TMM | 2021 | [Paper](https://ieeexplore.ieee.org/document/9194311) | [Code](https://github.com/sdqi/TMM_Model-based-Joint-Bit-Allocation-between-Geometry-and-Color-for-Video-based-3D-Point-Cloud-Compr) |
+| Coarse to fine rate control for region-based 3D point cloud compression | 码率控制 | 传统方法 | ICMEW | 2020 | [Paper](https://ieeexplore.ieee.org/document/9106052) | N/A |
+| Global rate-distortion optimization of video-based point cloud compression with differential evolution | 码率控制 | 传统方法 | MMSP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9733714) | N/A |
+| Rate-distortion modeling for bit rate constrained point cloud compression | 码率控制 | 通用 | TCSVT | 2023 | [Paper](https://arxiv.org/abs/2211.10646) | N/A |
+| Rate control optimization for joint geometry and attribute coding of LiDAR point clouds | 码率控制 | 传统方法 | VCIP | 2023 | [Paper](https://ieeexplore.ieee.org/document/10402779) | N/A |
+| A rate control algorithm for video-based point cloud compression | 码率控制 | 传统方法 | VCIP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9675449) | N/A |
+| Distortion propagation model-based V-PCC rate control for 3D point cloud broadcasting | 码率控制 | 传统方法 | TBC | 2025 | [Paper](https://ieeexplore.ieee.org/document/10795190) | N/A |
+| AdaDPCC: Adaptive rate control and rate-distortion-complexity optimization for dynamic point cloud compression | 码率控制 | 学习方法 | AAAI | 2025 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33439) | N/A |
+| Rate control for geometry-based LiDAR point cloud compression via multi-factor modeling | 码率控制 | 传统方法 | TBC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10735350) | N/A |
+| Cross-modal distortion approximation for fast bit allocation of video-based point cloud compression | 码率控制 | 传统方法 | MMSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10743667) | N/A |
+| Content-aware rate control for geometry-based point cloud compression | 码率控制 | 传统方法 | TCSVT | 2024 | [Paper](https://ieeexplore.ieee.org/document/10530090) | N/A |
+| Frame-level rate control for geometry-based LiDAR point cloud compression | 码率控制 | 传统方法 | TMM | 2023 | [Paper](https://ieeexplore.ieee.org/document/9760206) | N/A |
+| Learning-based rate control for video-based point cloud compression | 码率控制 | 传统方法 | TIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9720075) | N/A |
+| Joint semantic-channel coding and modulation for point cloud | 联合信源信道 | 语义通信 | ICC | 2025 | [Paper](https://ieeexplore.ieee.org/document/11161502) | N/A |
+| Semantic communication for efficient point cloud transmission | 联合信源信道 | 语义通信 | GlobeCom | 2024 | [Paper](https://ieeexplore.ieee.org/document/10901573) | N/A |
+| Deep joint source-channel coding for wireless point cloud transmission | 联合信源信道 | 语义通信 | ICASSP | 2025 | [Paper](https://arxiv.org/abs/2408.04889) | N/A |
+| DeepJSCC-PCG: Deep joint source channel coding for point cloud geometry | 联合信源信道 | 语义通信 | SPL | 2025 | [Paper](https://ieeexplore.ieee.org/document/11202351) | N/A |
+| Transformer-based semantic communication system for 3D point cloud transmission | 联合信源信道 | 语义通信 | iWRFAT | 2025 | [Paper](https://ieeexplore.ieee.org/document/11102914) | N/A |
+| DeepJSCC-based latent space power control for robust and efficient 3D point cloud transmission | 联合信源信道 | 语义通信 | ETRI Journal | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001051) | N/A |
+| A semantic communication system for point cloud | 联合信源信道 | 语义通信 | TVT | 2025 | [Paper](https://ieeexplore.ieee.org/document/10679082) | N/A |
